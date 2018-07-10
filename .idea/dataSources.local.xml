@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Ruby_App: production" uuid="d97569b0-565d-4b3f-b065-f464ae5bab59">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>Ruby_App</user-name>
+    </data-source>
+    <data-source name="Rails Ruby_App: test" uuid="01efa811-ec7c-4165-8600-0cbedf60db83">
+      <database-info product="MySQL" version="5.5.5-10.1.21-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <introspection-schemas>*:ruby_app_test</introspection-schemas>
+    </data-source>
+    <data-source name="Rails Ruby_App: development" uuid="2a490153-b13a-4812-98a3-ef33906e67ed">
+      <database-info product="MySQL" version="5.5.5-10.1.21-MariaDB" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>root</user-name>
+      <introspection-schemas>*:ruby_app_development</introspection-schemas>
+    </data-source>
+  </component>
+</project>
